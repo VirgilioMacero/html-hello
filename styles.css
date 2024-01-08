@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    text-align: center;
+}
+#wrapper{
+
+    width: 100%;
+    background: rgb(218, 223, 229);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+.post{
+
+width: 50vw;
+background: white;
+border-radius: 15px;
+margin: auto;
+margin-bottom:50px;
+
+}
+.post-header{
+    width: 48vw;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.post-body img{
+    width: 50vw;
+}
+.post-footer{
+width:48vw;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 7px;
+}
