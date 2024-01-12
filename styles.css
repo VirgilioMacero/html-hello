@@ -1,8 +1,12 @@
+body{
+    background: black;
+}
 .wrapper{
     width: 50vw;
     margin: auto;
 }
 .post{
+    background: white;
     width:50vw;
     border: 2px solid;
     border-radius:10px;
@@ -44,6 +48,9 @@
 }
 .post-icons * *{
     width:40px;
+}
+.post-liked{
+    padding-left: 10px;
 }
 .post-text{
     padding: 10px;
